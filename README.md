@@ -1,3 +1,5 @@
+# 考題吸血鬼(閃卡製作) AI應用規劃師
+
 # 發想與設計
 
 想考AI應用師，整理閃卡整理到很累，乾脆寫一個自己生產Obsidian中的.md  
@@ -9,6 +11,12 @@
 至於如何整理成.json格式，我是叫GPT直接整理成目的規格  
 prompt.txt是我給予的基本提示詞，但有時候還是會錯  
 題目來源自：https://vocus.cc/article/67bc7d0efd89780001b4fd4c   
+
+# 配套插件
+我使用的是Obsidian的第三方插件 Spaced Repetition製作閃卡  
+.md的設定格式主要是按照我的插件設定運作
+![image](https://github.com/user-attachments/assets/26a31f5f-b260-49bd-899e-c668a41ecf00)
+
 
 # 已知問題
 
